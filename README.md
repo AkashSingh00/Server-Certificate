@@ -1,7 +1,7 @@
 # Server-Certificate
 
 
-<img src=""> 
+<img src="https://github.com/kabir55/Server-Certificate/blob/master/Install%20server%20certificate.PNG"> 
 
 
 we'll show how to create the Server Certificate, get it signed and
