@@ -1,6 +1,8 @@
 # Server-Certificate
 
 
+<img src=""> 
+
 
 we'll show how to create the Server Certificate, get it signed and
 install signed Server Certificate with a private key
